@@ -1,0 +1,1 @@
+The use of the name, logo, or other trademarks of Wander in advertising or promotional materials is not permitted without prior written consent from Michael Mayaguari.
