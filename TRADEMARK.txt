@@ -1,1 +1,9 @@
-The use of the name, logo, or other trademarks of Wander in advertising or promotional materials is not permitted without prior written consent from Michael Mayaguari.
+# Trademark Policy
+
+The name "Wander" and any associated logos or branding (the "Trademarks") are the exclusive property of Michael Mayaguari. Use of the Trademarks is subject to the following restrictions:
+
+1. **Non-Endorsement**: You may not use the Trademarks in any way that suggests endorsement or affiliation without prior written permission.
+2. **Forks and Derivatives**: You may not use the Trademarks for forks, clones, or derivative works of this project.
+3. **Promotional Use**: You may not use the Trademarks in advertising, promotional materials, or other public representations without explicit consent.
+
+For permissions related to the use of the Trademarks, please contact [mgmayaguari](https://www.linkedin.com/in/michaelmayaguari/).
